@@ -1,6 +1,6 @@
 # Qwen OAuth Proxy — Home Assistant Addon
 
-OpenAI-compatible прокси для подключения Qwen (portal.qwen.ai) к Home Assistant через OAuth токен. Позволяет использовать мощные модели Qwen бесплатно в качестве текстового ассистента умного дома. Аддон работает как локальный OpenAI-совместимый сервер и проксирует запросы на `portal.qwen.ai`, используя ваш OAuth токен.
+OpenAI-compatible прокси для подключения Qwen (portal.qwen.ai) к Home Assistant через OAuth токен. Позволяет использовать мощные модели Qwen бесплатно (1000 запросов в сутки) в качестве текстового ассистента умного дома. Аддон работает как локальный OpenAI-совместимый сервер и проксирует запросы на `portal.qwen.ai`, используя ваш OAuth токен.
 
 ## Шаг 1 — Получение OAuth credentials через qwen-code
 
